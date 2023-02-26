@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::nIndices' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::nIndices</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::vbos' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::vbos</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::vbo' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::vbo</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::vao' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::vao</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::height' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::height</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::length' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::length</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::model' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::model</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::zrotation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::zrotation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::scale' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::scale</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::xrotation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::xrotation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::rotation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::rotation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::yrotation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::yrotation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::innerRadius' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::innerRadius</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::radius' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::radius</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::translation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::translation</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::number_of_sides' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::number_of_sides</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::gUVScale' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::gUVScale</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::texFilename' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::texFilename</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Josh\Desktop\School\CS-330\SNHU_CS_330_Computer_Graphics_and_Visualization-master - Copy (2)\7-1 Final Project - A 3D Scene\</FILEPATH>
+      <FILENAME>Mesh.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GLMesh::textureId' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GLMesh::{ctor}</FUNCTION>
+    <DECORATED>??0GLMesh@@QEAA@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GLMesh::textureId</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  7-1 Final Project - A 3D Scene.cpp
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(316,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(579,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(580,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(584,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(585,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(587,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(588,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(595,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.cpp(673,21): warning C4018: '<': signed/unsigned mismatch
+  7-1 Final Project - A 3D Scene.vcxproj -> C:\Users\Josh\Desktop\School\CS-330\7-1 working\7-1 Final Project - A 3D Scene\7-1 Final Project - A 3D Scene.exe
